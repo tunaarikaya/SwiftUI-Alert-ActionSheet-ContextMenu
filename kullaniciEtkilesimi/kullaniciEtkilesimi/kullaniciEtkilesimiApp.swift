@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//2
 @main
 struct kullaniciEtkilesimiApp: App {
     var body: some Scene {
