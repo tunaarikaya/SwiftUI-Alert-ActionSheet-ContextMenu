@@ -7,7 +7,7 @@ struct ContentView: View {
     
     var body: some View {
         VStack(spacing:100) {
-            Button("Alert"){
+            Button("Alerti"){
                 alert = true
             }.alert("Başlık",isPresented: $alert,actions: {
                 
